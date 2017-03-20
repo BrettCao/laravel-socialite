@@ -1,8 +1,8 @@
 {
-    "name": "overtrue/laravel-socialite",
+    "name": "lightmagic/laravel-socialite",
     "description": "Social OAuth authentication for Laravel 5.",
     "require": {
-        "BrettCao/socialite": "~1.0"
+        "lightmagic/socialite": "~1.0"
     },
     "autoload": {
         "psr-4": {
@@ -12,8 +12,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "anzhengchao@gmail.com"
+            "name": "lightmagic",
+            "email": "brettcaomail@gmail.com"
         }
     ]
 }
